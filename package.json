@@ -1,0 +1,8 @@
+{
+  "name": "jyosokko-fb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mogya/jyosokko-fb.git",
+  "author": "daisuke furukawa <mogya@mogya.com>",
+  "license": "MIT"
+}
